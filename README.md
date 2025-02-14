@@ -11,7 +11,6 @@ This repository contains my assignments for the Applied Data Science course (258
  │   ├── 📁 HW1  
  │   │   ├── 📄 Ali M.Shabestari - Pandas.png  
  │   │   ├── 📄 mydataset.txt 
-
  │   └── ...  
  ├── 📁 Slides  
  │   ├── 📄 DS-Lecture 0.pdf  
