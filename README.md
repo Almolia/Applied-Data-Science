@@ -5,7 +5,7 @@
 This repository contains my assignments for the Applied Data Science course (25879), instructed by Dr. Shahmansoori and Dr. Salavati in Spring 2025.
 
 ## Repository Structure
-
+```
 📂 Applied-Data-Science  
  ├── 📁 HW  
  │   ├── 📁 HW1  
@@ -17,4 +17,5 @@ This repository contains my assignments for the Applied Data Science course (258
  │   ├── 📄 DS-Lecture 0.pdf  
  │   ├── 📄 DS-Lecture 1.pdf  
  │   ├── ...  
- ├── 📄 README.md  
+ ├── 📄 README.md
+```
