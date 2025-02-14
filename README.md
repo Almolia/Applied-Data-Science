@@ -15,6 +15,6 @@ This repository contains my assignments for the Applied Data Science course (258
  │   └── ...  
  ├── 📁 Slides  
  │   ├── 📄 DS-Lecture 0.pdf  
- │   ├── 📄 DS-Lecture 0.pdf  
+ │   ├── 📄 DS-Lecture 1.pdf  
  │   ├── ...  
  ├── 📄 README.md  
